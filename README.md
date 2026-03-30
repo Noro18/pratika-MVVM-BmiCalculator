@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 Open your terminal or command prompt and run the following command to clone the project directly:
 
 ```bash
-git clone https://github.com/example/BMIcalculator.git
+git clone https://github.com/Noro18/BMIcalculator.git
 ```
 
 If you have **forked** the repository, replace `example` with your GitHub username:
