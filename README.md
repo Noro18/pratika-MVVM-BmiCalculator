@@ -53,9 +53,10 @@ com.example.bmicalculator/
 
 ## 📸 Screenshots
 
-| Light Mode | Dark Mode | Result Animation |
-|:---:|:---:|:---:|
-| *[Add Screenshot]* | *[Add Screenshot]* | *[Add Screenshot]* |
+<div align="center">
+  <img src="screenshots/Screenshot_2026-03-30-18-50-22-83_d42a44d2d823efc0f8e6c3f45fce69f5.jpg" width="300">
+  <p><i>The modern BMI Calculator interface in action</i></p>
+</div>
 
 ---
 *Created with ❤️ using Jetpack Compose.*
