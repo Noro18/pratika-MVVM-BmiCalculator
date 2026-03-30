@@ -2,10 +2,18 @@ package com.example.bmicalculator.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Light Theme Colors (Clean and Professional)
+val BmiGreen = Color(0xFF2E7D32)
+val BmiBlue = Color(0xFF1976D2)
+val BmiSurfaceLight = Color(0xFFF8F9FA)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Dark Theme Colors (High Contrast)
+val BmiGreenDark = Color(0xFF81C784)
+val BmiBlueDark = Color(0xFF64B5F6)
+val BmiSurfaceDark = Color(0xFF121212)
+
+// Status Colors (Useful for BMI results)
+val Underweight = Color(0xFF4FC3F7)
+val NormalWeight = Color(0xFF66BB6A)
+val Overweight = Color(0xFFFFA726)
+val Obese = Color(0xFFEF5350)

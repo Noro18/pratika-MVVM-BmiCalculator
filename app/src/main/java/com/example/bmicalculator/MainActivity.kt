@@ -58,6 +58,8 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.bmicalculator.ui.BmiScreen
+// import com.example.bmicalculator.ui.BmiScreen
 import com.example.bmicalculator.ui.theme.BMICalculatorTheme
 
 class MainActivity : ComponentActivity() {
@@ -68,7 +70,7 @@ class MainActivity : ComponentActivity() {
             BMICalculatorTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Box(modifier = Modifier.padding(innerPadding)) {
-                        BmiApp()
+                        BmiScreen()
                     }
                 }
             }
@@ -341,6 +343,6 @@ fun getBmiColor(status: String): Color = when (status) {
 @Composable
 fun BmiPreview() {
     BMICalculatorTheme {
-        BmiApp()
+        BmiScreen()
     }
 }
