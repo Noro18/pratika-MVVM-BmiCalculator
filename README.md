@@ -1,3 +1,4 @@
+
 # BMI Calculator - Android (Jetpack Compose)
 
 A modern, clean, and intuitive Body Mass Index (BMI) calculator for Android. Built with **Kotlin** and **Jetpack Compose**, this application follows the **MVVM (Model-View-ViewModel)** architectural pattern to ensure a clean separation of concerns and a responsive user experience.
