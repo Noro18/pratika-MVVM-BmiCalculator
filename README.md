@@ -87,5 +87,12 @@ git clone https://github.com/yourusername/BMIcalculator.git
   <p><i>The modern BMI Calculator interface in action</i></p>
 </div>
 
+<div align="center">
+  <img src="screenshots/Screenshot_2026-03-30-19-22-40-84_d42a44d2d823efc0f8e6c3f45fce69f5.jpg" width="300">
+  <p><i>The modern BMI Calculator interface in action</i></p>
+</div>
+
+
+
 ---
 *Created with ❤️ using Jetpack Compose.*
