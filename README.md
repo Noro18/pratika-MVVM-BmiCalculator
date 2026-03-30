@@ -53,13 +53,17 @@ Before you begin, ensure you have the following installed:
 
 ### 📥 1. Clone the Repository
 
-Open your terminal or command prompt and run the following command to clone the project:
+Open your terminal or command prompt and run the following command to clone the project directly:
+
+```bash
+git clone https://github.com/example/BMIcalculator.git
+```
+
+If you have **forked** the repository, replace `example` with your GitHub username:
 
 ```bash
 git clone https://github.com/yourusername/BMIcalculator.git
 ```
-
-*Note: Replace `yourusername` with the actual GitHub username if you've forked the repository.*
 
 ### 🛠️ 2. Open and Setup in Android Studio
 
