@@ -41,15 +41,40 @@ com.example.bmicalculator/
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/BMIcalculator.git
-   ```
-2. **Open in Android Studio:**
-   - Use Android Studio Hedgehog or newer.
-3. **Build and Run:**
-   - Connect an Android device or start an emulator.
-   - Click the **Run** button in Android Studio.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+* **Android Studio Hedgehog (2023.1.1)** or newer.
+* **JDK 17** or higher (usually bundled with Android Studio).
+* An **Android Device** or **Emulator** running API 24 (Android 7.0) or higher.
+* **Git** installed on your system.
+
+### 📥 1. Clone the Repository
+
+Open your terminal or command prompt and run the following command to clone the project:
+
+```bash
+git clone https://github.com/yourusername/BMIcalculator.git
+```
+
+*Note: Replace `yourusername` with the actual GitHub username if you've forked the repository.*
+
+### 🛠️ 2. Open and Setup in Android Studio
+
+1. Launch **Android Studio**.
+2. Select **Open** and navigate to the directory where you cloned the project.
+3. Select the root folder `BMIcalculator` and click **OK**.
+4. Wait for Android Studio to finish the **Gradle sync**. This might take a few minutes as it downloads the necessary dependencies.
+5. If prompted to install any missing SDK platforms or build tools, follow the on-screen instructions.
+
+### 🏃 3. Run the Application
+
+1. Connect your physical Android device via USB (with **USB Debugging** enabled) or start an **Android Virtual Device (AVD)** from the Device Manager.
+2. Select your device from the dropdown menu in the toolbar.
+3. Click the green **Run** button (or press `Shift + F10`).
+4. The app will build and install on your device/emulator.
 
 ## 📸 Screenshots
 
