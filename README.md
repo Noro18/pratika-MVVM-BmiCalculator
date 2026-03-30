@@ -82,15 +82,10 @@ git clone https://github.com/yourusername/BMIcalculator.git
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="screenshots/Screenshot_2026-03-30-18-50-22-83_d42a44d2d823efc0f8e6c3f45fce69f5.jpg" width="300">
-  <p><i>The modern BMI Calculator interface in action</i></p>
-</div>
-
-<div align="center">
-  <img src="screenshots/Screenshot_2026-03-30-19-22-40-84_d42a44d2d823efc0f8e6c3f45fce69f5.jpg" width="300">
-  <p><i>The modern BMI Calculator interface in action</i></p>
-</div>
+| Initial State | Calculation Result |
+|:---:|:---:|
+| <img src="screenshots/Screenshot_2026-03-30-18-50-22-83_d42a44d2d823efc0f8e6c3f45fce69f5.jpg" width="300"> | <img src="screenshots/Screenshot_2026-03-30-19-22-40-84_d42a44d2d823efc0f8e6c3f45fce69f5.jpg" width="300"> |
+| *Clean input interface* | *Dynamic BMI result and visual scale* |
 
 
 
